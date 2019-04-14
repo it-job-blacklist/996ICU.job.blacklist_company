@@ -6,7 +6,7 @@
 欢迎大家在[ [https://blacklist.me99.cc] ](https://blacklist.me99.cc) 实时提交数据，一起来维护各个城市的企业黑名单
 
 ## 社区力量/Community powers 
-- [955.WLB](https://github.com/ZuopanYao/955.WLB) 不加班的公司名称
+- [955.WLB](https://github.com/ZuopanYao/955.WLB) 不加班的公司
 - [996.ICU](https://github.com/ZuopanYao/996.ICU)
 
 
