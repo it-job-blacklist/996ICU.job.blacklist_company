@@ -9,7 +9,7 @@
 - [955.WLB](https://github.com/ZuopanYao/955.WLB) 不加班的公司
 - [996.ICU](https://github.com/ZuopanYao/996.ICU)
 
-## 城市黑名单
+## 找工作黑名单
 - [ [成都](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Chengdu.md) ] 最后更新: 2019-04-16
 - [ [深圳](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Shenzhen.md) ] 最后更新: 2019-04-13
 - [ [广州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Guangzhou.md) ] 最后更新: 2019-04-12
