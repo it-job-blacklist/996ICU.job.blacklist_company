@@ -18,7 +18,9 @@
 - 存在问题：公司存在问题简要描述，这是必须的
 - 详细描述：对存在问题详细描述，这是必须的，
 
-整理好了，可以通过`邮件`或者提`Issues` 或 `pull requests`反馈给我
+1、整理好了，可以通过`邮件`或者提`Issues` 或 `pull requests`反馈给我
+
+2、最直接的方法到 [ [https://blacklist.me99.cc](https://blacklist.me99.cc) ]进行匿名提交，这样就能让大家快速知道，无须等待，一切都是那么实时，那么自然
 
 ## 社区力量
 - [955.WLB](https://github.com/ZuopanYao/955.WLB) 不加班的公司
