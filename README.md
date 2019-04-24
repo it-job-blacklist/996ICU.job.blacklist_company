@@ -22,6 +22,8 @@
 
 2、最直接的方法到 [ [https://blacklist.me99.cc](https://blacklist.me99.cc) ]进行匿名提交，这样就能让大家快速知道，无须等待，一切都是那么实时，那么自然
 
+3、批量提交API [ [BatchSubmitAPI](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/BatchSubmitAPI.md) ]
+
 ## 社区力量
 - [955.WLB](https://github.com/ZuopanYao/955.WLB) 不加班的公司
 - [996.ICU](https://github.com/ZuopanYao/996.ICU)
