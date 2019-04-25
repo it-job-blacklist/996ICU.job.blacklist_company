@@ -142,3 +142,46 @@ var companies = [
         console.log(data.msg)
     }, 'json');
 ```
+
+- Dart & Future
+
+```dart
+import 'dart:convert';
+import 'dart:io';
+
+try {        
+        var companies = [
+        {
+          'name': '南京原谷信息科技有限公司',
+          'type': '不详',
+          'province': '江苏省',
+          'city': '南京市',
+          'address': '不详',
+          'issue': '工资不写入劳动合同，扣发工资',
+          'detail': '工资不写入劳动合同，扣发工资'
+        },
+        {
+           'name': '南京橘子星球网络科技有限公司',
+           'type': '不详',
+            'province': '江苏省',
+            'city': '南京市',
+           'address': '不详',
+           'issue': '恶意拖欠工资',
+           'detail': '恶意拖欠工资'
+        }
+      ];
+
+      var jsonstring = jsonEncode(companies);
+      var httpClient = new HttpClient();
+      var request = await httpClient.postUrl(Uri.https('blacklist.me99.cc', '/data/add_backlist.php', {'data':jsonstring}));
+      var response = await request.close();
+      if (response.statusCode == HttpStatus.ok) {
+
+        var jsonResult = await response.transform(Utf8Decoder()).join();
+        Map mapResult = jsonDecode(jsonResult);
+        print(mapResult['msg']);
+      } 
+    } catch (exception) {
+      print(exception);
+    }
+```
