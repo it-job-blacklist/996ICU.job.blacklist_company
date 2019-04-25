@@ -1,10 +1,15 @@
-# 996ICU.job.blacklist_company
-- `本项目数据来源互联网并整理成相同格式方便查看，以保持原汁原味为主，优化为辅`
-- `个人能力能限，目前整理的数据很有限，如果你愿意，期待一起来整理`
+# 996ICU.job.blacklist_company 
 
 主要城市996公司名单，互联网企业黑名单，找工作防止掉坑
 欢迎大家在[ [https://blacklist.me99.cc] ](https://blacklist.me99.cc) 实时提交数据，一起来维护各个城市的企业黑名单
+
+## 交流
+QQ群：`1018207998`
+
 ## 参与
+- `本项目数据来源互联网并整理成相同格式方便查看，以保持原汁原味为主，优化为辅`
+- `个人能力能限，目前整理的数据很有限，如果你愿意，期待一起来整理`
+
 如果你有其他企业黑名单提供，请按照以下格式整理
 
 | 企业名称 | 所在行业 | 所在城市 | 详细地址 | 存在问题 | 详细描述 |
@@ -21,6 +26,8 @@
 1、整理好了，可以通过`邮件`或者提`Issues` 或 `pull requests`反馈给我
 
 2、最直接的方法到 [ [https://blacklist.me99.cc](https://blacklist.me99.cc) ]进行匿名提交，这样就能让大家快速知道，无须等待，一切都是那么实时，那么自然
+
+3、批量提交API [ [BatchSubmitAPI](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/BatchSubmitAPI.md) ]
 
 ## 社区力量
 - [955.WLB](https://github.com/ZuopanYao/955.WLB) 不加班的公司
