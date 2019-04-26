@@ -34,6 +34,7 @@ QQ群：`1018207998`
 - [996.ICU](https://github.com/ZuopanYao/996.ICU)
 
 ## 找工作黑名单
+- [ [武汉](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Wuhan.md) ] 最后更新: 2019-04-26
 - [ [长沙](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Changsha.md) ] 最后更新: 2019-04-26
 - [ [南京](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Nanjing.md) ] 最后更新: 2019-04-22
 - [ [合肥](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Hefei.md) ] 最后更新: 2019-04-18
