@@ -34,10 +34,12 @@ QQ群：`1018207998`
 - [996.ICU](https://github.com/ZuopanYao/996.ICU)
 
 ## 找工作黑名单
+- [ [武汉](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Wuhan.md) ] 最后更新: 2019-04-26
+- [ [长沙](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Changsha.md) ] 最后更新: 2019-04-26
 - [ [南京](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Nanjing.md) ] 最后更新: 2019-04-22
 - [ [合肥](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Hefei.md) ] 最后更新: 2019-04-18
 - [ [杭州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Hangzhou.md) ] 最后更新: 2019-04-18
 - [ [成都](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Chengdu.md) ] 最后更新: 2019-04-16
-- [ [深圳](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Shenzhen.md) ] 最后更新: 2019-04-13
+- [ [深圳](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Shenzhen.md) ] 最后更新: 2019-04-26
 - [ [广州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Guangzhou.md) ] 最后更新: 2019-04-12
-- [ [北京](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Beijing.md) ] 最后更新: 2019-04-12
+- [ [北京](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Beijing.md) ] 最后更新: 2019-04-26
