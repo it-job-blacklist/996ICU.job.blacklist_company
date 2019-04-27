@@ -41,5 +41,5 @@ QQ群：`1018207998`
 - [ [杭州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Hangzhou.md) ] 最后更新: 2019-04-18
 - [ [成都](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Chengdu.md) ] 最后更新: 2019-04-16
 - [ [深圳](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Shenzhen.md) ] 最后更新: 2019-04-26
-- [ [广州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Guangzhou.md) ] 最后更新: 2019-04-12
+- [ [广州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Guangzhou.md) ] 最后更新: 2019-04-27
 - [ [北京](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Beijing.md) ] 最后更新: 2019-04-26
