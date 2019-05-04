@@ -154,7 +154,7 @@ var companies = [
     }, 'json');
 ```
 
-- Dart & Future
+- Dart & Flutter
 
 ```dart
 import 'dart:convert';
