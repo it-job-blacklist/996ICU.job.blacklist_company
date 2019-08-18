@@ -1,3 +1,5 @@
+官网([ [https://blacklist.me99.cc] ](https://blacklist.me99.cc))已于2019-08-18修复添加数据时提交出错的问题
+
 # 996ICU.job.blacklist_company 
 
 主要城市996公司名单，互联网企业黑名单，找工作防止掉坑
