@@ -1,9 +1,9 @@
-官网([ [https://blacklist.me99.cc] ](https://blacklist.me99.cc))已于2019-08-18修复添加数据时提交出错的问题
+官网([ [https://job.me88.top] ](https://job.me88.top))已于2019-08-18修复添加数据时提交出错的问题
 
 # 996ICU.job.blacklist_company 
 
 主要城市996公司名单，互联网企业黑名单，找工作防止掉坑
-欢迎大家在[ [https://blacklist.me99.cc] ](https://blacklist.me99.cc) 实时提交数据，一起来维护各个城市的企业黑名单
+欢迎大家在[ [https://job.me88.top] ](https://job.me88.top) 实时提交数据，一起来维护各个城市的企业黑名单
 
 ## 交流
 QQ群：`1018207998`
@@ -27,7 +27,7 @@ QQ群：`1018207998`
 
 1、整理好了，可以通过`邮件`或者提`Issues` 或 `pull requests`反馈给我
 
-2、最直接的方法到 [ [https://blacklist.me99.cc](https://blacklist.me99.cc) ]进行匿名提交，这样就能让大家快速知道，无须等待，一切都是那么实时，那么自然
+2、最直接的方法到 [ [https://job.me88.top](https://job.me88.top) ]进行匿名提交，这样就能让大家快速知道，无须等待，一切都是那么实时，那么自然
 
 3、批量提交API [ [BatchSubmitAPI](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/BatchSubmitAPI.md) ]
 
