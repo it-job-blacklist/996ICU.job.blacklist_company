@@ -1,5 +1,3 @@
-官网([ [https://job.me88.top] ](https://job.me88.top))已于2019-08-18修复添加数据时提交出错的问题
-
 # 996ICU.job.blacklist_company 
 
 主要城市996公司名单，互联网企业黑名单，找工作防止掉坑
@@ -29,20 +27,20 @@ QQ群：`1018207998`
 
 2、最直接的方法到 [ [https://job.me88.top](https://job.me88.top) ]进行匿名提交，这样就能让大家快速知道，无须等待，一切都是那么实时，那么自然
 
-3、批量提交API [ [BatchSubmitAPI](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/BatchSubmitAPI.md) ]
+3、批量提交API [ [BatchSubmitAPI](./BatchSubmitAPI.md) ]
 
 ## 社区力量
 - [955.WLB](https://github.com/ZuopanYao/955.WLB) 不加班的公司
 - [996.ICU](https://github.com/ZuopanYao/996.ICU)
 
 ## 找工作黑名单
-- [ [上海](./ShangHai.md) ]
-- [ [武汉](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Wuhan.md) ] 最后更新: 2019-04-26
-- [ [长沙](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Changsha.md) ] 最后更新: 2019-04-26
-- [ [南京](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Nanjing.md) ] 最后更新: 2019-04-22
-- [ [合肥](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Hefei.md) ] 最后更新: 2019-04-18
-- [ [杭州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Hangzhou.md) ] 最后更新: 2019-04-18
-- [ [成都](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Chengdu.md) ] 最后更新: 2019-04-16
-- [ [深圳](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Shenzhen.md) ] 最后更新: 2019-04-26
-- [ [广州](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Guangzhou.md) ] 最后更新: 2019-04-27
-- [ [北京](https://github.com/it-job-blacklist/996ICU.job.blacklist_company/blob/master/Beijing.md) ] 最后更新: 2019-04-26
+- [ [上海](./ShangHai.md) ] 最后更新: 2019-11-05
+- [ [武汉](./Wuhan.md) ] 最后更新: 2019-04-26
+- [ [长沙](./Changsha.md) ] 最后更新: 2019-04-26
+- [ [南京](./Nanjing.md) ] 最后更新: 2019-04-22
+- [ [合肥](./Hefei.md) ] 最后更新: 2019-04-18
+- [ [杭州](./Hangzhou.md) ] 最后更新: 2019-04-18
+- [ [成都](./Chengdu.md) ] 最后更新: 2019-04-16
+- [ [深圳](./Shenzhen.md) ] 最后更新: 2019-04-26
+- [ [广州](./Guangzhou.md) ] 最后更新: 2019-04-27
+- [ [北京](./Beijing.md) ] 最后更新: 2019-04-26
