@@ -1,6 +1,6 @@
 ### 批量提交API
 
-省份和城市名称请前往[ [https://blacklist.me99.cc](https://blacklist.me99.cc) ]查证后再提交
+省份和城市名称请前往[ [https://job.me88.top](https://job.me88.top) ]查证后再提交
 
 #### 参数说明
 - name：企业名称，这是必须的
@@ -58,7 +58,7 @@ guard let jsonData = try? JSONSerialization.data(withJSONObject: companies, opti
   }
   
 let params: [String: Any] = ["data": jsonString]
-let url = "https://blacklist.me99.cc/data/add_backlist.php"
+let url = "https://job.me88.top/data/add_backlist.php"
   
 request(url, method: .post, parameters: params)
     .responseJSON(completionHandler: { (response) in
@@ -116,7 +116,7 @@ $options = array(
     )
 );
 
-$url = "https://blacklist.me99.cc/data/add_backlist.php";
+$url = "https://job.me88.top/data/add_backlist.php";
 $context = stream_context_create($options);
 $result = file_get_contents($url, false, $context);
 
@@ -147,14 +147,14 @@ var companies = [
         }
     ];
 
-    var url = 'https://blacklist.me99.cc/data/add_backlist.php';
+    var url = 'https://job.me88.top/data/add_backlist.php';
     $.post(url, {"data": JSON.stringify(companies)}, function(data){
 
         console.log(data.msg)
     }, 'json');
 ```
 
-- Dart & Future
+- Dart & Flutter
 
 ```dart
 import 'dart:convert';
